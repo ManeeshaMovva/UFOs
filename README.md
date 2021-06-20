@@ -21,5 +21,6 @@ A drawback of this webpage is that the data is currently stored and linked to th
 ### Recommendations:
 
 •	One recommendation that I have is providing the link to where we got this information as proof to show that what is being displayed on the website is correct and we have sources. 
+
 •	Another recommendation I have is allowing the user to filter using multiple countries, dates, cities, etc. 
  
